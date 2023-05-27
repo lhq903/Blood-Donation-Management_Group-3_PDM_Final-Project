@@ -1,12 +1,10 @@
 Delete from BloodBank;
 go
-INSERT INTO BloodStock VALUES 
-('BS1002', 'O-', '1000', '2022-05-14'
 
 INSERT INTO BloodBank VALUES 
 
 ('B0001', 'Bangalore Rotary TTK Blood Bank Medical Service', '77 Corbett Rd, Underhill, VT 05489, United States', '9am to 8pm'),
-('B0002', 'KIMS Blood Bank', '2434 W Back Mountain Rd, Belleville, PA 17004,  United States', '24/7');
+('B0002', 'KIMS Blood Bank', '2434 W Back Mountain Rd, Belleville, PA 17004,  United States', '24/7'),
 ('B0003', 'HKES Blood Bank Organisation', '12m Chancery Hill Rd, Singapore',  '24/7'),
 ('B0004', 'Bangalore Rotary TTK Blood Bank Medical Service', '77 Corbett Rd, Underhill, VT 05489, United States', '9am to 8pm'),
 ('B0005', 'KIMS Blood Bank', '2434 W Back Mountain Rd, Belleville, PA 17004,  United States', '24/7'),
